@@ -65,12 +65,12 @@ require (
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/zap v1.16.0
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b
-	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
-	golang.org/x/sys v0.0.0-20210119212857-b64e53b001e4
+	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f
+	golang.org/x/sys v0.0.0-20211019181941-9d821ace8654
 	google.golang.org/grpc v1.29.1
 	gopkg.in/ini.v1 v1.52.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
-	honnef.co/go/tools v0.1.2
+	honnef.co/go/tools v0.3.0
 )
 
 replace github.com/gogo/protobuf => github.com/gogo/protobuf v1.3.2
